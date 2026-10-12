@@ -1,0 +1,7 @@
+{
+  "name": "Mainframe Agency",
+  "description": "A full-screen hero landing page for a creative agency called Mainframe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
